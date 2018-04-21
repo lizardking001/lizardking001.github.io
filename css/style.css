@@ -1,0 +1,43 @@
+body {
+	background-image: url(../images/pattern.png);
+}
+
+
+.main1{
+	outline: 1px solid green;
+	width: 600px;
+	height: 400px;
+	margin: 20px auto;
+background-image:url(https://i.imgur.com/4wk3Spa.jpg); 
+background-size: 100%;
+text-align: center; 
+line-height: 400px; 
+
+
+}
+
+.main2{
+	outline: 1px solid red;
+	width: 600px;
+	height: 400px;
+	margin: 20px auto;
+background-image:url(http://www.sonarium.ru/wp-content/uploads/2013/07/sobaka-400x300.jpeg); 
+background-size: 100%;
+text-align: center; 
+line-height: 400px; 
+
+
+}
+
+h1{
+	text-align: center;
+	color: white;
+
+}
+
+h2{
+text-align: center;
+	color: white;
+font-size: 40px;
+
+}
